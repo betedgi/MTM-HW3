@@ -1,0 +1,3 @@
+C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug/CMakeFiles/Wet.dir
+C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

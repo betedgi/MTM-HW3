@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Wet"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Wet">
+				<Option output="C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug/Wet.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Wet"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Wet/fast">
+				<Option output="C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug/Wet.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Wet/fast"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/list.h">
+			<Option target="Wet"/>
+		</Unit>
+		<Unit filename="C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/map.h">
+			<Option target="Wet"/>
+		</Unit>
+		<Unit filename="C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/mtm_ex3.h">
+			<Option target="Wet"/>
+		</Unit>
+		<Unit filename="C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/mtmflix.c">
+			<Option target="Wet"/>
+		</Unit>
+		<Unit filename="C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/mtmflix.h">
+			<Option target="Wet"/>
+		</Unit>
+		<Unit filename="C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/series.c">
+			<Option target="Wet"/>
+		</Unit>
+		<Unit filename="C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/series.h">
+			<Option target="Wet"/>
+		</Unit>
+		<Unit filename="C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/set.h">
+			<Option target="Wet"/>
+		</Unit>
+		<Unit filename="C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/tests/test1.c">
+			<Option target="Wet"/>
+		</Unit>
+		<Unit filename="C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/tests/test_utilities.h">
+			<Option target="Wet"/>
+		</Unit>
+		<Unit filename="C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/user.c">
+			<Option target="Wet"/>
+		</Unit>
+		<Unit filename="C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/user.h">
+			<Option target="Wet"/>
+		</Unit>
+		<Unit filename="C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/utilities.c">
+			<Option target="Wet"/>
+		</Unit>
+		<Unit filename="C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/utilities.h">
+			<Option target="Wet"/>
+		</Unit>
+		<Unit filename="C:/Users/baretedgi/Desktop/MTM-HW3-master/234122-HW3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

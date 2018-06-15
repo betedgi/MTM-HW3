@@ -1,0 +1,1124 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u0 is 20 years old
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u1 is 105 years old
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u10 is 90 years old
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u11 is 55 years old
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u12 is 40 years old
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u13 is 80 years old
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u14 is 110 years old
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u15 is 110 years old
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u16 is 65 years old
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u17 is 90 years old
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u18 is 55 years old
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u19 is 110 years old
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u2 is 90 years old
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u20 is 20 years old
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u3 is 55 years old
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u4 is 30 years old
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u5 is 30 years old
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u6 is 60 years old
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u7 is 120 years old
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u8 is 85 years old
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u9 is 45 years old
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u0 is 20 years old
+Friend: u1
+Friend: u10
+Friend: u11
+Friend: u12
+Friend: u15
+Friend: u16
+Friend: u2
+Friend: u5
+Friend: u6
+Friend: u8
+Friend: u9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u1 is 105 years old
+Friend: u0
+Friend: u10
+Friend: u11
+Friend: u12
+Friend: u13
+Friend: u14
+Friend: u17
+Friend: u2
+Friend: u20
+Friend: u3
+Friend: u6
+Friend: u9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u10 is 90 years old
+Friend: u1
+Friend: u11
+Friend: u15
+Friend: u17
+Friend: u18
+Friend: u19
+Friend: u2
+Friend: u20
+Friend: u4
+Friend: u5
+Friend: u6
+Friend: u7
+Friend: u8
+Friend: u9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u11 is 55 years old
+Friend: u0
+Friend: u10
+Friend: u12
+Friend: u16
+Friend: u19
+Friend: u2
+Friend: u3
+Friend: u5
+Friend: u6
+Friend: u7
+Friend: u9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u12 is 40 years old
+Friend: u0
+Friend: u1
+Friend: u11
+Friend: u14
+Friend: u15
+Friend: u17
+Friend: u18
+Friend: u19
+Friend: u2
+Friend: u20
+Friend: u3
+Friend: u5
+Friend: u7
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u13 is 80 years old
+Friend: u1
+Friend: u10
+Friend: u12
+Friend: u15
+Friend: u16
+Friend: u18
+Friend: u19
+Friend: u2
+Friend: u4
+Friend: u5
+Friend: u6
+Friend: u7
+Friend: u8
+Friend: u9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u14 is 110 years old
+Friend: u0
+Friend: u1
+Friend: u10
+Friend: u11
+Friend: u12
+Friend: u17
+Friend: u18
+Friend: u2
+Friend: u20
+Friend: u4
+Friend: u5
+Friend: u7
+Friend: u9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u15 is 110 years old
+Friend: u1
+Friend: u11
+Friend: u12
+Friend: u13
+Friend: u14
+Friend: u16
+Friend: u17
+Friend: u18
+Friend: u2
+Friend: u4
+Friend: u6
+Friend: u7
+Friend: u8
+Friend: u9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u16 is 65 years old
+Friend: u10
+Friend: u11
+Friend: u13
+Friend: u15
+Friend: u17
+Friend: u19
+Friend: u2
+Friend: u20
+Friend: u3
+Friend: u4
+Friend: u7
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u17 is 90 years old
+Friend: u0
+Friend: u1
+Friend: u11
+Friend: u12
+Friend: u13
+Friend: u14
+Friend: u15
+Friend: u18
+Friend: u20
+Friend: u3
+Friend: u4
+Friend: u6
+Friend: u7
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u18 is 55 years old
+Friend: u1
+Friend: u12
+Friend: u14
+Friend: u16
+Friend: u20
+Friend: u4
+Friend: u5
+Friend: u6
+Friend: u7
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u19 is 110 years old
+Friend: u0
+Friend: u10
+Friend: u11
+Friend: u12
+Friend: u13
+Friend: u14
+Friend: u17
+Friend: u18
+Friend: u2
+Friend: u9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u2 is 90 years old
+Friend: u11
+Friend: u14
+Friend: u15
+Friend: u16
+Friend: u17
+Friend: u19
+Friend: u3
+Friend: u5
+Friend: u6
+Friend: u7
+Friend: u8
+Friend: u9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u20 is 20 years old
+Friend: u0
+Friend: u1
+Friend: u10
+Friend: u13
+Friend: u16
+Friend: u19
+Friend: u2
+Friend: u3
+Friend: u5
+Friend: u7
+Friend: u8
+Friend: u9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u3 is 55 years old
+Friend: u0
+Friend: u11
+Friend: u12
+Friend: u13
+Friend: u14
+Friend: u16
+Friend: u17
+Friend: u18
+Friend: u19
+Friend: u4
+Friend: u6
+Friend: u7
+Friend: u8
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u4 is 30 years old
+Friend: u1
+Friend: u11
+Friend: u14
+Friend: u15
+Friend: u17
+Friend: u19
+Friend: u20
+Friend: u3
+Friend: u5
+Friend: u6
+Friend: u8
+Friend: u9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u5 is 30 years old
+Friend: u0
+Friend: u1
+Friend: u11
+Friend: u15
+Friend: u16
+Friend: u17
+Friend: u18
+Friend: u2
+Friend: u20
+Friend: u4
+Friend: u6
+Friend: u8
+Friend: u9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u6 is 60 years old
+Friend: u0
+Friend: u14
+Friend: u15
+Friend: u16
+Friend: u17
+Friend: u19
+Friend: u20
+Friend: u3
+Friend: u5
+Friend: u7
+Friend: u8
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u7 is 120 years old
+Friend: u10
+Friend: u11
+Friend: u14
+Friend: u15
+Friend: u16
+Friend: u17
+Friend: u19
+Friend: u2
+Friend: u20
+Friend: u3
+Friend: u4
+Friend: u6
+Friend: u9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u8 is 85 years old
+Friend: u0
+Friend: u1
+Friend: u10
+Friend: u12
+Friend: u13
+Friend: u14
+Friend: u16
+Friend: u17
+Friend: u3
+Friend: u5
+Friend: u6
+Friend: u7
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u9 is 45 years old
+Friend: u0
+Friend: u1
+Friend: u11
+Friend: u12
+Friend: u14
+Friend: u15
+Friend: u17
+Friend: u20
+Friend: u3
+Friend: u5
+Friend: u7
+Friend: u8
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u0 is 20 years old
+Friend: u1
+Friend: u10
+Friend: u11
+Friend: u12
+Friend: u15
+Friend: u16
+Friend: u2
+Friend: u5
+Friend: u6
+Friend: u8
+Friend: u9
+Series: s12
+Series: s17
+Series: s3
+Series: s4
+Series: s5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u1 is 105 years old
+Friend: u0
+Friend: u10
+Friend: u11
+Friend: u12
+Friend: u13
+Friend: u14
+Friend: u17
+Friend: u2
+Friend: u20
+Friend: u3
+Friend: u6
+Friend: u9
+Series: s12
+Series: s14
+Series: s15
+Series: s17
+Series: s2
+Series: s9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u10 is 90 years old
+Friend: u1
+Friend: u11
+Friend: u15
+Friend: u17
+Friend: u18
+Friend: u19
+Friend: u2
+Friend: u20
+Friend: u4
+Friend: u5
+Friend: u6
+Friend: u7
+Friend: u8
+Friend: u9
+Series: s1
+Series: s11
+Series: s12
+Series: s14
+Series: s17
+Series: s3
+Series: s5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u11 is 55 years old
+Friend: u0
+Friend: u10
+Friend: u12
+Friend: u16
+Friend: u19
+Friend: u2
+Friend: u3
+Friend: u5
+Friend: u6
+Friend: u7
+Friend: u9
+Series: s12
+Series: s15
+Series: s17
+Series: s2
+Series: s4
+Series: s5
+Series: s6
+Series: s8
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u12 is 40 years old
+Friend: u0
+Friend: u1
+Friend: u11
+Friend: u14
+Friend: u15
+Friend: u17
+Friend: u18
+Friend: u19
+Friend: u2
+Friend: u20
+Friend: u3
+Friend: u5
+Friend: u7
+Series: s15
+Series: s2
+Series: s3
+Series: s4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u13 is 80 years old
+Friend: u1
+Friend: u10
+Friend: u12
+Friend: u15
+Friend: u16
+Friend: u18
+Friend: u19
+Friend: u2
+Friend: u4
+Friend: u5
+Friend: u6
+Friend: u7
+Friend: u8
+Friend: u9
+Series: s12
+Series: s13
+Series: s14
+Series: s17
+Series: s2
+Series: s9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u14 is 110 years old
+Friend: u0
+Friend: u1
+Friend: u10
+Friend: u11
+Friend: u12
+Friend: u17
+Friend: u18
+Friend: u2
+Friend: u20
+Friend: u4
+Friend: u5
+Friend: u7
+Friend: u9
+Series: s11
+Series: s12
+Series: s13
+Series: s14
+Series: s16
+Series: s9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u15 is 110 years old
+Friend: u1
+Friend: u11
+Friend: u12
+Friend: u13
+Friend: u14
+Friend: u16
+Friend: u17
+Friend: u18
+Friend: u2
+Friend: u4
+Friend: u6
+Friend: u7
+Friend: u8
+Friend: u9
+Series: s1
+Series: s15
+Series: s16
+Series: s3
+Series: s7
+Series: s9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u16 is 65 years old
+Friend: u10
+Friend: u11
+Friend: u13
+Friend: u15
+Friend: u17
+Friend: u19
+Friend: u2
+Friend: u20
+Friend: u3
+Friend: u4
+Friend: u7
+Series: s1
+Series: s12
+Series: s13
+Series: s17
+Series: s7
+Series: s9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u17 is 90 years old
+Friend: u0
+Friend: u1
+Friend: u11
+Friend: u12
+Friend: u13
+Friend: u14
+Friend: u15
+Friend: u18
+Friend: u20
+Friend: u3
+Friend: u4
+Friend: u6
+Friend: u7
+Series: s1
+Series: s11
+Series: s15
+Series: s16
+Series: s17
+Series: s2
+Series: s7
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u18 is 55 years old
+Friend: u1
+Friend: u12
+Friend: u14
+Friend: u16
+Friend: u20
+Friend: u4
+Friend: u5
+Friend: u6
+Friend: u7
+Series: s11
+Series: s15
+Series: s2
+Series: s3
+Series: s5
+Series: s6
+Series: s8
+Series: s9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u19 is 110 years old
+Friend: u0
+Friend: u10
+Friend: u11
+Friend: u12
+Friend: u13
+Friend: u14
+Friend: u17
+Friend: u18
+Friend: u2
+Friend: u9
+Series: s1
+Series: s11
+Series: s13
+Series: s14
+Series: s16
+Series: s17
+Series: s3
+Series: s5
+Series: s9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u2 is 90 years old
+Friend: u11
+Friend: u14
+Friend: u15
+Friend: u16
+Friend: u17
+Friend: u19
+Friend: u3
+Friend: u5
+Friend: u6
+Friend: u7
+Friend: u8
+Friend: u9
+Series: s1
+Series: s12
+Series: s13
+Series: s14
+Series: s15
+Series: s17
+Series: s3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u20 is 20 years old
+Friend: u0
+Friend: u1
+Friend: u10
+Friend: u13
+Friend: u16
+Friend: u19
+Friend: u2
+Friend: u3
+Friend: u5
+Friend: u7
+Friend: u8
+Friend: u9
+Series: s1
+Series: s13
+Series: s15
+Series: s17
+Series: s3
+Series: s6
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u3 is 55 years old
+Friend: u0
+Friend: u11
+Friend: u12
+Friend: u13
+Friend: u14
+Friend: u16
+Friend: u17
+Friend: u18
+Friend: u19
+Friend: u4
+Friend: u6
+Friend: u7
+Friend: u8
+Series: s2
+Series: s4
+Series: s5
+Series: s6
+Series: s8
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u4 is 30 years old
+Friend: u1
+Friend: u11
+Friend: u14
+Friend: u15
+Friend: u17
+Friend: u19
+Friend: u20
+Friend: u3
+Friend: u5
+Friend: u6
+Friend: u8
+Friend: u9
+Series: s12
+Series: s13
+Series: s2
+Series: s3
+Series: s4
+Series: s6
+Series: s8
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u5 is 30 years old
+Friend: u0
+Friend: u1
+Friend: u11
+Friend: u15
+Friend: u16
+Friend: u17
+Friend: u18
+Friend: u2
+Friend: u20
+Friend: u4
+Friend: u6
+Friend: u8
+Friend: u9
+Series: s1
+Series: s15
+Series: s3
+Series: s4
+Series: s5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u6 is 60 years old
+Friend: u0
+Friend: u14
+Friend: u15
+Friend: u16
+Friend: u17
+Friend: u19
+Friend: u20
+Friend: u3
+Friend: u5
+Friend: u7
+Friend: u8
+Series: s12
+Series: s14
+Series: s15
+Series: s17
+Series: s3
+Series: s4
+Series: s5
+Series: s7
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u7 is 120 years old
+Friend: u10
+Friend: u11
+Friend: u14
+Friend: u15
+Friend: u16
+Friend: u17
+Friend: u19
+Friend: u2
+Friend: u20
+Friend: u3
+Friend: u4
+Friend: u6
+Friend: u9
+Series: s14
+Series: s15
+Series: s16
+Series: s3
+Series: s5
+Series: s7
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u8 is 85 years old
+Friend: u0
+Friend: u1
+Friend: u10
+Friend: u12
+Friend: u13
+Friend: u14
+Friend: u16
+Friend: u17
+Friend: u3
+Friend: u5
+Friend: u6
+Friend: u7
+Series: s11
+Series: s12
+Series: s15
+Series: s16
+Series: s17
+Series: s2
+Series: s5
+Series: s9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u9 is 45 years old
+Friend: u0
+Friend: u1
+Friend: u11
+Friend: u12
+Friend: u14
+Friend: u15
+Friend: u17
+Friend: u20
+Friend: u3
+Friend: u5
+Friend: u7
+Friend: u8
+Series: s1
+Series: s13
+Series: s17
+Series: s8
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u0 is 20 years old
+Friend: u1
+Friend: u10
+Friend: u11
+Friend: u12
+Friend: u16
+Friend: u5
+Friend: u6
+Friend: u8
+Friend: u9
+Series: s12
+Series: s17
+Series: s3
+Series: s4
+Series: s5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u1 is 105 years old
+Friend: u0
+Friend: u10
+Friend: u11
+Friend: u12
+Friend: u13
+Friend: u14
+Friend: u17
+Friend: u20
+Friend: u3
+Friend: u6
+Friend: u9
+Series: s12
+Series: s14
+Series: s15
+Series: s17
+Series: s9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u10 is 90 years old
+Friend: u1
+Friend: u11
+Friend: u17
+Friend: u18
+Friend: u19
+Friend: u20
+Friend: u4
+Friend: u5
+Friend: u6
+Friend: u7
+Friend: u8
+Friend: u9
+Series: s1
+Series: s11
+Series: s12
+Series: s14
+Series: s17
+Series: s3
+Series: s5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u11 is 55 years old
+Friend: u0
+Friend: u10
+Friend: u12
+Friend: u16
+Friend: u19
+Friend: u3
+Friend: u5
+Friend: u6
+Friend: u7
+Friend: u9
+Series: s12
+Series: s15
+Series: s17
+Series: s4
+Series: s5
+Series: s6
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u12 is 40 years old
+Friend: u0
+Friend: u1
+Friend: u11
+Friend: u14
+Friend: u17
+Friend: u18
+Friend: u19
+Friend: u20
+Friend: u3
+Friend: u5
+Friend: u7
+Series: s15
+Series: s3
+Series: s4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u13 is 80 years old
+Friend: u1
+Friend: u10
+Friend: u12
+Friend: u16
+Friend: u18
+Friend: u19
+Friend: u4
+Friend: u5
+Friend: u6
+Friend: u7
+Friend: u8
+Friend: u9
+Series: s12
+Series: s13
+Series: s14
+Series: s17
+Series: s9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u14 is 110 years old
+Friend: u0
+Friend: u1
+Friend: u10
+Friend: u11
+Friend: u12
+Friend: u17
+Friend: u18
+Friend: u20
+Friend: u4
+Friend: u5
+Friend: u7
+Friend: u9
+Series: s11
+Series: s12
+Series: s13
+Series: s14
+Series: s16
+Series: s9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u16 is 65 years old
+Friend: u10
+Friend: u11
+Friend: u13
+Friend: u17
+Friend: u19
+Friend: u20
+Friend: u3
+Friend: u4
+Friend: u7
+Series: s1
+Series: s12
+Series: s13
+Series: s17
+Series: s7
+Series: s9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u17 is 90 years old
+Friend: u0
+Friend: u1
+Friend: u11
+Friend: u12
+Friend: u13
+Friend: u14
+Friend: u18
+Friend: u20
+Friend: u3
+Friend: u4
+Friend: u6
+Friend: u7
+Series: s1
+Series: s11
+Series: s15
+Series: s16
+Series: s17
+Series: s7
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u18 is 55 years old
+Friend: u1
+Friend: u12
+Friend: u14
+Friend: u16
+Friend: u20
+Friend: u4
+Friend: u5
+Friend: u6
+Friend: u7
+Series: s11
+Series: s15
+Series: s3
+Series: s5
+Series: s6
+Series: s9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u19 is 110 years old
+Friend: u0
+Friend: u10
+Friend: u11
+Friend: u12
+Friend: u13
+Friend: u14
+Friend: u17
+Friend: u18
+Friend: u9
+Series: s1
+Series: s11
+Series: s13
+Series: s14
+Series: s16
+Series: s17
+Series: s3
+Series: s5
+Series: s9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u20 is 20 years old
+Friend: u0
+Friend: u1
+Friend: u10
+Friend: u13
+Friend: u16
+Friend: u19
+Friend: u3
+Friend: u5
+Friend: u7
+Friend: u8
+Friend: u9
+Series: s1
+Series: s13
+Series: s15
+Series: s17
+Series: s3
+Series: s6
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u3 is 55 years old
+Friend: u0
+Friend: u11
+Friend: u12
+Friend: u13
+Friend: u14
+Friend: u16
+Friend: u17
+Friend: u18
+Friend: u19
+Friend: u4
+Friend: u6
+Friend: u7
+Friend: u8
+Series: s4
+Series: s5
+Series: s6
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u4 is 30 years old
+Friend: u1
+Friend: u11
+Friend: u14
+Friend: u17
+Friend: u19
+Friend: u20
+Friend: u3
+Friend: u5
+Friend: u6
+Friend: u8
+Friend: u9
+Series: s12
+Series: s13
+Series: s3
+Series: s4
+Series: s6
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u5 is 30 years old
+Friend: u0
+Friend: u1
+Friend: u11
+Friend: u16
+Friend: u17
+Friend: u18
+Friend: u20
+Friend: u4
+Friend: u6
+Friend: u8
+Friend: u9
+Series: s1
+Series: s15
+Series: s3
+Series: s4
+Series: s5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u6 is 60 years old
+Friend: u0
+Friend: u14
+Friend: u16
+Friend: u17
+Friend: u19
+Friend: u20
+Friend: u3
+Friend: u5
+Friend: u7
+Friend: u8
+Series: s12
+Series: s14
+Series: s15
+Series: s17
+Series: s3
+Series: s4
+Series: s5
+Series: s7
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u7 is 120 years old
+Friend: u10
+Friend: u11
+Friend: u14
+Friend: u16
+Friend: u17
+Friend: u19
+Friend: u20
+Friend: u3
+Friend: u4
+Friend: u6
+Friend: u9
+Series: s14
+Series: s15
+Series: s16
+Series: s3
+Series: s5
+Series: s7
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u8 is 85 years old
+Friend: u0
+Friend: u1
+Friend: u10
+Friend: u12
+Friend: u13
+Friend: u14
+Friend: u16
+Friend: u17
+Friend: u3
+Friend: u5
+Friend: u6
+Friend: u7
+Series: s11
+Series: s12
+Series: s15
+Series: s16
+Series: s17
+Series: s5
+Series: s9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u9 is 45 years old
+Friend: u0
+Friend: u1
+Friend: u11
+Friend: u12
+Friend: u14
+Friend: u17
+Friend: u20
+Friend: u3
+Friend: u5
+Friend: u7
+Friend: u8
+Series: s1
+Series: s13
+Series: s17

@@ -1,0 +1,857 @@
+Series 's10', Genre: COMEDY.
+Series 's14', Genre: COMEDY.
+Series 's16', Genre: COMEDY.
+Series 's9', Genre: COMEDY.
+Series 's3', Genre: DOCUMENTARY.
+Series 's2', Genre: DRAMA.
+Series 's4', Genre: DRAMA.
+Series 's8', Genre: DRAMA.
+Series 's1', Genre: MYSTERY.
+Series 's13', Genre: MYSTERY.
+Series 's6', Genre: MYSTERY.
+Series 's7', Genre: MYSTERY.
+Series 's11', Genre: ROMANCE.
+Series 's17', Genre: ROMANCE.
+Series 's15', Genre: SCIENCE_FICTION.
+Series 's5', Genre: SCIENCE_FICTION.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u0 is 85 years old
+Friend: u10
+Friend: u12
+Friend: u16
+Friend: u17
+Friend: u19
+Friend: u3
+Friend: u5
+Friend: u7
+Friend: u9
+Series: s11
+Series: s15
+Series: s16
+Series: s2
+Series: s4
+Series: s6
+Series: s7
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u1 is 60 years old
+Friend: u0
+Friend: u13
+Friend: u18
+Friend: u19
+Friend: u2
+Friend: u20
+Friend: u5
+Friend: u6
+Friend: u8
+Series: s1
+Series: s11
+Series: s17
+Series: s2
+Series: s3
+Series: s5
+Series: s9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u10 is 55 years old
+Friend: u0
+Friend: u1
+Friend: u12
+Friend: u16
+Friend: u19
+Friend: u2
+Friend: u3
+Friend: u4
+Friend: u5
+Friend: u7
+Friend: u8
+Series: s10
+Series: s11
+Series: s5
+Series: s6
+Series: s8
+Series: s9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u12 is 115 years old
+Friend: u0
+Friend: u1
+Friend: u10
+Friend: u13
+Friend: u15
+Friend: u16
+Friend: u17
+Friend: u18
+Friend: u19
+Friend: u3
+Friend: u4
+Friend: u5
+Friend: u9
+Series: s11
+Series: s16
+Series: s17
+Series: s2
+Series: s4
+Series: s7
+Series: s8
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u13 is 35 years old
+Friend: u0
+Friend: u10
+Friend: u15
+Friend: u16
+Friend: u17
+Friend: u18
+Friend: u19
+Friend: u2
+Friend: u20
+Friend: u3
+Friend: u7
+Friend: u8
+Friend: u9
+Series: s10
+Series: s7
+Series: s8
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u15 is 50 years old
+Friend: u0
+Friend: u10
+Friend: u16
+Friend: u17
+Friend: u19
+Friend: u3
+Friend: u4
+Friend: u5
+Friend: u6
+Friend: u7
+Friend: u8
+Friend: u9
+Series: s16
+Series: s2
+Series: s5
+Series: s6
+Series: s7
+Series: s9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u16 is 65 years old
+Friend: u12
+Friend: u17
+Friend: u18
+Friend: u19
+Friend: u2
+Friend: u20
+Friend: u3
+Friend: u4
+Friend: u5
+Friend: u8
+Friend: u9
+Series: s1
+Series: s11
+Series: s15
+Series: s16
+Series: s17
+Series: s2
+Series: s4
+Series: s6
+Series: s8
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u17 is 55 years old
+Friend: u0
+Friend: u1
+Friend: u12
+Friend: u15
+Friend: u18
+Friend: u19
+Friend: u3
+Friend: u4
+Friend: u5
+Friend: u6
+Friend: u8
+Series: s5
+Series: s7
+Series: s8
+Series: s9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u18 is 10 years old
+Friend: u0
+Friend: u10
+Friend: u15
+Friend: u17
+Friend: u19
+Friend: u2
+Friend: u20
+Friend: u4
+Friend: u5
+Friend: u6
+Friend: u7
+Friend: u9
+Series: s16
+Series: s7
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u19 is 5 years old
+Friend: u0
+Friend: u1
+Friend: u10
+Friend: u12
+Friend: u13
+Friend: u15
+Friend: u16
+Friend: u2
+Friend: u20
+Friend: u4
+Friend: u5
+Friend: u7
+Friend: u8
+Series: s13
+Series: s6
+Series: s8
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u2 is 100 years old
+Friend: u0
+Friend: u13
+Friend: u15
+Friend: u16
+Friend: u17
+Friend: u18
+Friend: u20
+Friend: u3
+Friend: u4
+Friend: u6
+Friend: u8
+Friend: u9
+Series: s10
+Series: s15
+Series: s16
+Series: s2
+Series: s7
+Series: s8
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u20 is 30 years old
+Friend: u0
+Friend: u1
+Friend: u10
+Friend: u12
+Friend: u13
+Friend: u15
+Friend: u17
+Friend: u2
+Friend: u3
+Friend: u4
+Friend: u7
+Friend: u8
+Series: s17
+Series: s6
+Series: s9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u3 is 80 years old
+Friend: u1
+Friend: u12
+Friend: u15
+Friend: u16
+Friend: u17
+Friend: u18
+Friend: u19
+Friend: u2
+Friend: u4
+Friend: u5
+Series: s14
+Series: s15
+Series: s17
+Series: s6
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u4 is 50 years old
+Friend: u0
+Friend: u1
+Friend: u10
+Friend: u13
+Friend: u15
+Friend: u16
+Friend: u17
+Friend: u19
+Friend: u2
+Friend: u20
+Friend: u3
+Friend: u5
+Friend: u9
+Series: s10
+Series: s16
+Series: s5
+Series: s6
+Series: s7
+Series: s9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u5 is 30 years old
+Friend: u0
+Friend: u10
+Friend: u13
+Friend: u15
+Friend: u16
+Friend: u18
+Friend: u20
+Friend: u6
+Series: s16
+Series: s7
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u6 is 40 years old
+Friend: u0
+Friend: u12
+Friend: u15
+Friend: u16
+Friend: u17
+Friend: u19
+Friend: u3
+Friend: u4
+Friend: u5
+Friend: u7
+Friend: u8
+Series: s10
+Series: s16
+Series: s17
+Series: s5
+Series: s6
+Series: s9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u7 is 100 years old
+Friend: u0
+Friend: u1
+Friend: u10
+Friend: u12
+Friend: u13
+Friend: u18
+Friend: u19
+Friend: u2
+Friend: u20
+Friend: u3
+Friend: u5
+Friend: u8
+Friend: u9
+Series: s14
+Series: s16
+Series: s17
+Series: s3
+Series: s4
+Series: s5
+Series: s7
+Series: s8
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u8 is 45 years old
+Friend: u0
+Friend: u1
+Friend: u12
+Friend: u13
+Friend: u17
+Friend: u18
+Friend: u19
+Friend: u2
+Friend: u20
+Friend: u3
+Friend: u4
+Friend: u5
+Friend: u6
+Friend: u9
+Series: s10
+Series: s6
+Series: s8
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u9 is 105 years old
+Friend: u0
+Friend: u1
+Friend: u10
+Friend: u12
+Friend: u16
+Friend: u19
+Friend: u2
+Friend: u3
+Friend: u4
+Friend: u5
+Friend: u6
+Friend: u7
+Friend: u8
+Series: s1
+Series: s11
+Series: s16
+Series: s17
+Series: s2
+Series: s3
+Series: s4
+Series: s7
+Series: s8
+Series 's8', Genre: DRAMA.
+Series 's17', Genre: ROMANCE.
+Series 's1', Genre: MYSTERY.
+Series 's5', Genre: SCIENCE_FICTION.
+Series 's14', Genre: COMEDY.
+Series 's10', Genre: COMEDY.
+***********************
+Series 's16', Genre: COMEDY.
+Series 's6', Genre: MYSTERY.
+Series 's7', Genre: MYSTERY.
+Series 's10', Genre: COMEDY.
+Series 's8', Genre: DRAMA.
+Series 's15', Genre: SCIENCE_FICTION.
+Series 's4', Genre: DRAMA.
+***********************
+Series 's6', Genre: MYSTERY.
+Series 's4', Genre: DRAMA.
+Series 's5', Genre: SCIENCE_FICTION.
+Series 's1', Genre: MYSTERY.
+Series 's14', Genre: COMEDY.
+***********************
+Series 's16', Genre: COMEDY.
+Series 's7', Genre: MYSTERY.
+Series 's5', Genre: SCIENCE_FICTION.
+Series 's11', Genre: ROMANCE.
+Series 's1', Genre: MYSTERY.
+Series 's10', Genre: COMEDY.
+***********************
+***********************
+Series 's6', Genre: MYSTERY.
+Series 's9', Genre: COMEDY.
+Series 's10', Genre: COMEDY.
+***********************
+Series 's7', Genre: MYSTERY.
+***********************
+Series 's2', Genre: DRAMA.
+Series 's10', Genre: COMEDY.
+Series 's6', Genre: MYSTERY.
+Series 's11', Genre: ROMANCE.
+Series 's15', Genre: SCIENCE_FICTION.
+Series 's1', Genre: MYSTERY.
+***********************
+Series 's7', Genre: MYSTERY.
+Series 's16', Genre: COMEDY.
+Series 's9', Genre: COMEDY.
+***********************
+Series 's6', Genre: MYSTERY.
+Series 's10', Genre: COMEDY.
+Series 's14', Genre: COMEDY.
+***********************
+Series 's16', Genre: COMEDY.
+Series 's7', Genre: MYSTERY.
+Series 's17', Genre: ROMANCE.
+Series 's2', Genre: DRAMA.
+***********************
+***********************
+Series 's6', Genre: MYSTERY.
+Series 's1', Genre: MYSTERY.
+Series 's10', Genre: COMEDY.
+Series 's14', Genre: COMEDY.
+***********************
+Series 's6', Genre: MYSTERY.
+Series 's16', Genre: COMEDY.
+Series 's9', Genre: COMEDY.
+***********************
+***********************
+Series 's10', Genre: COMEDY.
+Series 's8', Genre: DRAMA.
+***********************
+Series 's7', Genre: MYSTERY.
+Series 's10', Genre: COMEDY.
+Series 's5', Genre: SCIENCE_FICTION.
+Series 's14', Genre: COMEDY.
+***********************
+Series 's16', Genre: COMEDY.
+Series 's6', Genre: MYSTERY.
+Series 's2', Genre: DRAMA.
+Series 's10', Genre: COMEDY.
+***********************
+Series 's6', Genre: MYSTERY.
+Series 's10', Genre: COMEDY.
+***********************
+Series 's7', Genre: MYSTERY.
+***********************
+Series 's7', Genre: MYSTERY.
+Series 's16', Genre: COMEDY.
+Series 's10', Genre: COMEDY.
+***********************
+Series 's10', Genre: COMEDY.
+Series 's14', Genre: COMEDY.
+Series 's16', Genre: COMEDY.
+Series 's9', Genre: COMEDY.
+Series 's3', Genre: DOCUMENTARY.
+Series 's2', Genre: DRAMA.
+Series 's4', Genre: DRAMA.
+Series 's8', Genre: DRAMA.
+Series 's1', Genre: MYSTERY.
+Series 's13', Genre: MYSTERY.
+Series 's6', Genre: MYSTERY.
+Series 's7', Genre: MYSTERY.
+Series 's11', Genre: ROMANCE.
+Series 's17', Genre: ROMANCE.
+Series 's15', Genre: SCIENCE_FICTION.
+Series 's5', Genre: SCIENCE_FICTION.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u0 is 85 years old
+Friend: u10
+Friend: u12
+Friend: u16
+Friend: u17
+Friend: u19
+Friend: u3
+Friend: u5
+Friend: u7
+Friend: u9
+Series: s11
+Series: s2
+Series: s4
+Series: s6
+Series: s7
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u1 is 60 years old
+Friend: u0
+Friend: u13
+Friend: u18
+Friend: u19
+Friend: u2
+Friend: u20
+Friend: u5
+Friend: u6
+Friend: u8
+Series: s1
+Series: s11
+Series: s17
+Series: s2
+Series: s3
+Series: s5
+Series: s9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u10 is 55 years old
+Friend: u0
+Friend: u1
+Friend: u12
+Friend: u16
+Friend: u19
+Friend: u2
+Friend: u3
+Friend: u4
+Friend: u5
+Friend: u7
+Friend: u8
+Series: s10
+Series: s11
+Series: s5
+Series: s6
+Series: s8
+Series: s9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u12 is 115 years old
+Friend: u0
+Friend: u1
+Friend: u10
+Friend: u13
+Friend: u15
+Friend: u16
+Friend: u17
+Friend: u18
+Friend: u19
+Friend: u3
+Friend: u4
+Friend: u5
+Friend: u9
+Series: s17
+Series: s4
+Series: s8
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u13 is 35 years old
+Friend: u0
+Friend: u10
+Friend: u15
+Friend: u16
+Friend: u17
+Friend: u18
+Friend: u19
+Friend: u2
+Friend: u20
+Friend: u3
+Friend: u7
+Friend: u8
+Friend: u9
+Series: s10
+Series: s7
+Series: s8
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u15 is 50 years old
+Friend: u0
+Friend: u10
+Friend: u16
+Friend: u17
+Friend: u19
+Friend: u3
+Friend: u4
+Friend: u5
+Friend: u6
+Friend: u7
+Friend: u8
+Friend: u9
+Series: s2
+Series: s5
+Series: s7
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u16 is 65 years old
+Friend: u12
+Friend: u17
+Friend: u18
+Friend: u19
+Friend: u2
+Friend: u20
+Friend: u3
+Friend: u4
+Friend: u5
+Friend: u8
+Friend: u9
+Series: s1
+Series: s11
+Series: s15
+Series: s16
+Series: s17
+Series: s2
+Series: s4
+Series: s6
+Series: s8
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u17 is 55 years old
+Friend: u0
+Friend: u1
+Friend: u12
+Friend: u15
+Friend: u18
+Friend: u19
+Friend: u3
+Friend: u4
+Friend: u5
+Friend: u6
+Friend: u8
+Series: s5
+Series: s7
+Series: s8
+Series: s9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u18 is 10 years old
+Friend: u0
+Friend: u10
+Friend: u15
+Friend: u17
+Friend: u19
+Friend: u2
+Friend: u20
+Friend: u4
+Friend: u5
+Friend: u6
+Friend: u7
+Friend: u9
+Series: s16
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u19 is 5 years old
+Friend: u0
+Friend: u1
+Friend: u10
+Friend: u12
+Friend: u13
+Friend: u15
+Friend: u16
+Friend: u2
+Friend: u20
+Friend: u4
+Friend: u5
+Friend: u7
+Friend: u8
+Series: s13
+Series: s6
+Series: s8
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u2 is 100 years old
+Friend: u0
+Friend: u13
+Friend: u15
+Friend: u16
+Friend: u17
+Friend: u18
+Friend: u20
+Friend: u3
+Friend: u4
+Friend: u6
+Friend: u8
+Friend: u9
+Series: s10
+Series: s15
+Series: s16
+Series: s2
+Series: s7
+Series: s8
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u20 is 30 years old
+Friend: u0
+Friend: u1
+Friend: u10
+Friend: u12
+Friend: u13
+Friend: u15
+Friend: u17
+Friend: u2
+Friend: u3
+Friend: u4
+Friend: u7
+Friend: u8
+Series: s17
+Series: s6
+Series: s9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u3 is 80 years old
+Friend: u1
+Friend: u12
+Friend: u15
+Friend: u16
+Friend: u17
+Friend: u18
+Friend: u19
+Friend: u2
+Friend: u4
+Friend: u5
+Series: s15
+Series: s17
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u4 is 50 years old
+Friend: u0
+Friend: u1
+Friend: u10
+Friend: u13
+Friend: u15
+Friend: u16
+Friend: u17
+Friend: u19
+Friend: u2
+Friend: u20
+Friend: u3
+Friend: u5
+Friend: u9
+Series: s10
+Series: s16
+Series: s5
+Series: s6
+Series: s7
+Series: s9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u5 is 30 years old
+Friend: u0
+Friend: u10
+Friend: u13
+Friend: u15
+Friend: u16
+Friend: u18
+Friend: u20
+Friend: u6
+Series: s16
+Series: s7
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u6 is 40 years old
+Friend: u0
+Friend: u12
+Friend: u15
+Friend: u16
+Friend: u17
+Friend: u19
+Friend: u3
+Friend: u4
+Friend: u5
+Friend: u7
+Friend: u8
+Series: s10
+Series: s16
+Series: s5
+Series: s9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u7 is 100 years old
+Friend: u0
+Friend: u1
+Friend: u10
+Friend: u12
+Friend: u13
+Friend: u18
+Friend: u19
+Friend: u2
+Friend: u20
+Friend: u3
+Friend: u5
+Friend: u8
+Friend: u9
+Series: s14
+Series: s16
+Series: s17
+Series: s3
+Series: s4
+Series: s5
+Series: s7
+Series: s8
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u8 is 45 years old
+Friend: u0
+Friend: u1
+Friend: u12
+Friend: u13
+Friend: u17
+Friend: u18
+Friend: u19
+Friend: u2
+Friend: u20
+Friend: u3
+Friend: u4
+Friend: u5
+Friend: u6
+Friend: u9
+Series: s10
+Series: s6
+Series: s8
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The user u9 is 105 years old
+Friend: u0
+Friend: u1
+Friend: u10
+Friend: u12
+Friend: u16
+Friend: u19
+Friend: u2
+Friend: u3
+Friend: u4
+Friend: u5
+Friend: u6
+Friend: u7
+Friend: u8
+Series: s11
+Series: s17
+Series: s2
+Series: s8
+Series 's8', Genre: DRAMA.
+***********************
+Series 's10', Genre: COMEDY.
+***********************
+Series 's6', Genre: MYSTERY.
+***********************
+Series 's5', Genre: SCIENCE_FICTION.
+***********************
+***********************
+Series 's6', Genre: MYSTERY.
+***********************
+***********************
+Series 's10', Genre: COMEDY.
+***********************
+Series 's7', Genre: MYSTERY.
+***********************
+Series 's4', Genre: DRAMA.
+***********************
+Series 's16', Genre: COMEDY.
+***********************
+***********************
+Series 's2', Genre: DRAMA.
+***********************
+Series 's6', Genre: MYSTERY.
+***********************
+***********************
+Series 's8', Genre: DRAMA.
+***********************
+Series 's7', Genre: MYSTERY.
+***********************
+Series 's16', Genre: COMEDY.
+***********************
+Series 's10', Genre: COMEDY.
+***********************
+Series 's7', Genre: MYSTERY.
+***********************
+Series 's7', Genre: MYSTERY.
+***********************
